@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822001131907",
+    "project_id": "plugapp-7a0b9",
+    "storage_bucket": "plugapp-7a0b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822001131907:android:afc9d70c18babe8d2296b6",
+        "android_client_info": {
+          "package_name": "com.plugapps.plug_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822001131907-bil0qvsa7gkufor2qrg2v51269k9347m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCFWEA9MysaAS0CfXMEiXr03Fyui-9B6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822001131907-bil0qvsa7gkufor2qrg2v51269k9347m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
